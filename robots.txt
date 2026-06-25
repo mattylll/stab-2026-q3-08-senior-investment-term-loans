@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/stab-2026-q3-08-senior-investment-term-loans/sitemap.xml
